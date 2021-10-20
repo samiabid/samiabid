@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sami Abid
+- 👀 I’m interested in building solutions that helps increase productivity, systemize processes and automate the boring stuff.
+- 🌱 I’m currently learning n8n Automation tool, JSON 
+- 💞️ I’m looking to collaborate on No-Code/Low-Code apps
+- 📫 https://portfolio.samiabid.com
